@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "start": "gulp",
+    "test": "mocha -w"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.5.0",
+    "babel-core": "^6.16.0",
+    "babel-loader": "^6.2.5",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "binderify": "^1.0.2",
+    "classlist-polyfill": "^1.0.3",
+    "genv": "^0.1.1",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1",
+    "moment": "^2.15.1",
+    "postcss-loader": "^0.13.0",
+    "precss": "^1.4.0",
+    "react": "^15.3.2",
+    "react-datepicker": "^0.29.0",
+    "react-dom": "^15.3.2",
+    "webpack-stream": "^3.2.0"
+  }
+}

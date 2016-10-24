@@ -1,0 +1,11 @@
+@import reset.css;
+
+/*
+Custom Styles
+*/
+
+body {
+    padding: 32px;
+    text-align: center;
+}
+

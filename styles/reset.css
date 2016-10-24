@@ -1,0 +1,13 @@
+input, textarea, keygen, select, button {
+    color: initial;
+    display: inline-block;
+    font: inherit;
+    letter-spacing: normal;
+    margin: 0em 0em 0em 0em;
+    text-align: start;
+    text-indent: 0px;
+    text-rendering: auto;
+    text-shadow: none;
+    text-transform: none;
+    word-spacing: normal;
+}
