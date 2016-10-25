@@ -14,6 +14,3 @@ ReactDOM.render(
     document.querySelector('#app')
 );
 
-async function hey() {
-    console.log('Hey!');
-}
