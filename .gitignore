@@ -3,3 +3,4 @@ dist/css/
 dist/js/
 node_modules/
 notes/
+.idea/
